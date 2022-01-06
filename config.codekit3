@@ -9,6 +9,63 @@
 	],
 "creatorBuild": "32186",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
+	"/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/404.html",
+		"oF": 0
+		},
+	"/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 28650,
+		"oA": 0,
+		"oAP": "/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 60793,
+		"oA": 0,
+		"oAP": "/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 28630,
+		"oA": 0,
+		"oAP": "/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/browserconfig.xml",
+		"oF": 0
+		},
 	"/css/main-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -337,63 +394,6 @@
 		"oAP": "/LICENSE.txt",
 		"oF": 0
 		},
-	"/niftyapes-static/.gitattributes": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/niftyapes-static/.gitattributes",
-		"oF": 0
-		},
-	"/niftyapes-static/404.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/niftyapes-static/404.html",
-		"oF": 0
-		},
-	"/niftyapes-static/android-chrome-192x192.png": {
-		"ft": 32768,
-		"iS": 28650,
-		"oA": 0,
-		"oAP": "/niftyapes-static/android-chrome-192x192.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/niftyapes-static/android-chrome-512x512.png": {
-		"ft": 32768,
-		"iS": 60793,
-		"oA": 0,
-		"oAP": "/niftyapes-static/android-chrome-512x512.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/niftyapes-static/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 28630,
-		"oA": 0,
-		"oAP": "/niftyapes-static/apple-touch-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/niftyapes-static/browserconfig.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/niftyapes-static/browserconfig.xml",
-		"oF": 0
-		},
 	"/package-lock.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -455,9 +455,9 @@
 	},
 "projectAttributes": {
 	"creationDate": 663104192.51102805,
-	"displayValue": "niftyapes-site",
+	"displayValue": "niftyapes-static",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "/niftyapes-static/apple-touch-icon.png",
+	"iconImageName": "/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
