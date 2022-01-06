@@ -19,6 +19,7 @@ html {
   color: #fff;
   font-family: "Mulish", Helvetica, Roboto, san-serif;
   box-sizing: border-box;
+  height: 100vh;
 }
 
 /*
@@ -271,6 +272,7 @@ body {
   font-size: 28px;
   font-family: "Mulish", san-serif;
   text-align: center;
+  height: 100vh; 
 }
 
 h1, h2, h3, h4 { font-family: "Dosis", Roboto, San-Serif; }
