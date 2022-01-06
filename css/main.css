@@ -268,11 +268,11 @@ textarea {
 
 body {
   background: url("/img/bg.jpg") no-repeat, top, left;
-  background-size: 95%;
+  background-size: 800px;
   font-size: 28px;
   font-family: "Mulish", san-serif;
   text-align: center;
-  height: 100vh; 
+  height: 100vh;
 }
 
 h1, h2, h3, h4 { font-family: "Dosis", Roboto, San-Serif; }

@@ -17,6 +17,14 @@
 		"oAP": "/.gitattributes",
 		"oF": 0
 		},
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/404.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -64,6 +72,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/browserconfig.xml",
+		"oF": 0
+		},
+	"/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/CNAME",
 		"oF": 0
 		},
 	"/css/main-min.css": {
@@ -307,7 +323,7 @@
 		},
 	"/img/605bnp.gif": {
 		"ft": 4194304,
-		"iS": 1056646,
+		"iS": 964927,
 		"oA": 0,
 		"oAP": "/img/605bnp.gif",
 		"oF": 0,
@@ -321,7 +337,7 @@
 		"oAP": "/img/bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/img/logo.svg": {
@@ -333,6 +349,14 @@
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
+		},
+	"/img/old.gif": {
+		"ft": 4194304,
+		"iS": 1056646,
+		"oA": 0,
+		"oAP": "/img/old.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"/index.html": {
 		"cB": 0,
