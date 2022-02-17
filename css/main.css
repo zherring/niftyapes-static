@@ -308,12 +308,14 @@ header {
   padding: 1rem;
 }
 
+#header-right {
+  display: flex;
+  flex-direction: row;
+}
 header a, header a:visited  {
   font-size: 1rem;
   color: white;
-  border-radius: 40px;
   padding: .25rem 2rem;
-  border: white 1px solid;
   text-decoration: none;
 
   display: flex;
@@ -323,6 +325,12 @@ header a, header a:visited  {
 
   height: 2.5rem;
 }
+
+header a.button, header a.button:visited  {
+  border: white 1px solid;
+  border-radius: 40px;
+}
+
 
 .hero {
   width: 21.5rem;
