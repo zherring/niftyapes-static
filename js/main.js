@@ -86,6 +86,6 @@ document.addEventListener('click', () => {
      emojis: ['🍌', '💎', '💰', '🍌', '🦍', '🍌'],
      confettiRadius: 1,
      confettiNumber: 20,
-     emojiSize: 120,
+     emojiSize: 95,
    });
 });
